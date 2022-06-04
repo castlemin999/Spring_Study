@@ -11,7 +11,6 @@ import java.util.*;
 * 추후 DB 모델이 정해지면 전환한다.
 * */
 
-@Repository
 public class MemoryMemberRepository implements MemberRepository{
 
     private static Map<Long, Member> store = new HashMap<>();
