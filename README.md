@@ -8,15 +8,15 @@ https://start.spring.io
 ### 프로젝트 선택
 
 Project: Gradle Project  
-Spring Boot: 2.3.x
-Language: Java
-Packaging: Jar
-Java: 11 
+Spring Boot: 2.3.x  
+Language: Java  
+Packaging: Jar  
+Java: 11  
 
 ### Project Metadata
 
-groupId: hello
-artifactId: hello-spring 
+groupId: hello  
+artifactId: hello-spring  
 
 ### Dependencies
 
