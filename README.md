@@ -7,7 +7,7 @@ https://start.spring.io
 
 ### 프로젝트 선택
 
-Project: Gradle Project
+Project: Gradle Project  
 Spring Boot: 2.3.x
 Language: Java
 Packaging: Jar
